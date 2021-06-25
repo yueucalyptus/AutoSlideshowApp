@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoSlideshowApp</string>
+    <string name="timer">0.0</string>
+    <string name="back">再生</string>
+    <string name="startstop">▶︎</string>
+    <string name="next">◀︎</string>
+</resources>
